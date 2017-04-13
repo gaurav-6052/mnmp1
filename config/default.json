@@ -1,0 +1,37 @@
+{
+    "hostAddress": "localhost",
+    "serverPort": 3000,
+    "mongoUrl": "mongodb://localhost:27017/mnmp",
+    "redisUrl": "redis://localhost:8080",
+    "apiKeys": {
+        "android": "cf40165bf171df14935fd2723fa49d45ea310c24dc8542b3c00ec9147017e2f1",
+        "ios": "a1f76aa850664ff73cf37badabb14bcec764d6ccfc46706cfd8be3f6ac6312ee",
+        "web": "c112f68c22a4b6ff1240e072f64677d155b3d05488bcf5c5194b88aef04ea765"
+    },
+    "tokenExpireIn": "10 days",
+    "verificationExpireIn": "7 days",
+    
+    "files": {
+        "maxSizeBytes": 5242880,
+        "mimeTypes": [
+            "image/png",
+            "image/jpeg",
+            "image/jpg"
+        ]
+    },
+    "sendgrid": {
+        "apiKey": "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",
+        "templateId": {
+            "emailVerify": "50ad2e40-2717-4ada-8019-2e478205c566",
+            "forgotPassword": "bd8009d1-b399-4096-a954-33bb193c5d62"
+        }
+    },
+    "apn": {
+        "certPath": "./assets/apn_cert_dev.pem",
+        "keyPath": "./assets/apn_key_dev.pem",
+        "production": false
+    },
+    "gcm": {
+        "apiKey": "AIzaSyAov7swiCa7TxJZx6MbaO3Tdp-NnOp6o-I"
+    }
+}

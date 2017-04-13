@@ -1,0 +1,10 @@
+{
+    "hostAddress": "52.5.234.73",
+    "serverPort": 9191,
+    
+    "apn": {
+        "certPath": "./assets/apn_cert_prod.pem",
+        "keyPath": "./assets/apn_key_prod.pem",
+        "production": true
+    }
+}

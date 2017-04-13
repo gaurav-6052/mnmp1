@@ -1,0 +1,530 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"err",
+				"errors"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"fu",
+				"fullName"
+			],
+			[
+				"bod",
+				"body"
+			],
+			[
+				"li",
+				"listen"
+			],
+			[
+				"N",
+				"NODE_ENV"
+			],
+			[
+				"r",
+				"refresh"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"f",
+				"find"
+			],
+			[
+				"p",
+				"phone"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"res",
+				"restaurant"
+			],
+			[
+				"ph",
+				"Phone"
+			],
+			[
+				"regi",
+				"registration"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"c",
+				"contact"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"n",
+				"ng-click"
+			],
+			[
+				"co",
+				"contact"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"per",
+				"person1"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"m",
+				"meetupName"
+			],
+			[
+				"me",
+				"meetup"
+			],
+			[
+				"meetu",
+				"meetupsController"
+			],
+			[
+				"Mo",
+				"Movies"
+			],
+			[
+				"Movi",
+				"movies"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"mon",
+				"mongoClient"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/bhlap-03/Desktop/mnmp/server.js",
+			"settings":
+			{
+				"buffer_size": 1705,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/bhlap-03/Desktop/mnmp/routes/register/register.js",
+			"settings":
+			{
+				"buffer_size": 3682,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/bhlap-03/Desktop/mnmp",
+		"/home/bhlap-03/Desktop/mnmp/lib",
+		"/home/bhlap-03/Desktop/mnmp/modules",
+		"/home/bhlap-03/Desktop/mnmp/modules/cities/models",
+		"/home/bhlap-03/Desktop/mnmp/routes",
+		"/home/bhlap-03/Desktop/mnmp/routes/register",
+		"/home/bhlap-03/Desktop/mnmp/routes/user"
+	],
+	"file_history":
+	[
+		"/home/bhlap-03/Desktop/mnmp/lib/utility.js",
+		"/home/bhlap-03/Desktop/mnmp/lib/urlEncodedBodyParser.js",
+		"/home/bhlap-03/Desktop/mnmp/lib/jsonBodyParser.js",
+		"/home/bhlap-03/Desktop/mnmp/lib/globalConfigure.js",
+		"/home/bhlap-03/Desktop/mnmp/lib/errors.js",
+		"/home/bhlap-03/Desktop/mnmp/lib/errorHandler.js",
+		"/home/bhlap-03/Desktop/mnmp/lib/authCheck.js",
+		"/home/bhlap-03/Desktop/mnmp/lib/apiKeyCheck.js",
+		"/home/bhlap-03/Desktop/mnmp/lib/Route.js",
+		"/home/bhlap-03/Desktop/mnmp/modules/cities/index.js",
+		"/home/bhlap-03/Desktop/mnmp/modules/cities/models/cityModel.js",
+		"/home/bhlap-03/Desktop/mnmp/routes/cities/cities.js",
+		"/home/bhlap-03/Desktop/mnmp/routes/login/loginUserEmail.js",
+		"/home/bhlap-03/Desktop/mnmp/modules/user/index.js",
+		"/home/bhlap-03/Desktop/mnmp/modules/user/models/UserModel.js",
+		"/home/bhlap-03/Desktop/mnmp/routes/user/getUsers.js",
+		"/home/bhlap-03/Desktop/mnmp/server.js",
+		"/home/bhlap-03/Desktop/mnmp/routes/password/resetPassword.js",
+		"/home/bhlap-03/Desktop/mnmp/routes/password/changePassword.js",
+		"/home/bhlap-03/Desktop/mnmp/node_modules/config/lib/config.js",
+		"/home/bhlap-03/Desktop/mnmp/routes/password/forgotPassword.js",
+		"/home/bhlap-03/Desktop/mnmp/config/default.json",
+		"/home/bhlap-03/Desktop/mnmp/package.json",
+		"/home/bhlap-03/Desktop/mnmp/routes/register/register.js",
+		"/home/bhlap-03/Desktop/register/routes/register/register.js",
+		"/home/bhlap-03/Desktop/register/modules/user/index.js",
+		"/home/bhlap-03/Desktop/register/modules/user/models/UserModel.js",
+		"/home/bhlap-03/Desktop/rApp/routes/register/register.js",
+		"/home/bhlap-03/Desktop/register/lib/jsonBodyParser.js",
+		"/home/bhlap-03/Desktop/rApp/docs/register.md",
+		"/home/bhlap-03/Desktop/register/modules/masterData/models/MasterDataModel.js",
+		"/home/bhlap-03/Desktop/rApp/modules/masterData/index.js",
+		"/home/bhlap-03/Desktop/register/modules/masterData/index.js",
+		"/home/bhlap-03/Desktop/register/modules/auth/index.js",
+		"/home/bhlap-03/Desktop/register/server.js",
+		"/home/bhlap-03/Desktop/rApp/server.js",
+		"/home/bhlap-03/Desktop/register/lib/Route.js",
+		"/home/bhlap-03/Desktop/rApp/docs/login.md",
+		"/home/bhlap-03/Desktop/register/routes/login/loginUserEmail.js",
+		"/home/bhlap-03/Desktop/rApp/routes/login/loginAdmin.js",
+		"/home/bhlap-03/Desktop/register/config/default.json",
+		"/home/bhlap-03/Desktop/rApp/lib/apiKeyCheck.js",
+		"/home/bhlap-03/Desktop/register/routes/login/loginAdmin.js",
+		"/home/bhlap-03/Desktop/register/package.json",
+		"/home/bhlap-03/Desktop/register/routes/user/getUsers.js",
+		"/home/bhlap-03/Desktop/rApp/routes/login/loginUserEmail.js",
+		"/home/bhlap-03/Desktop/rApp/routes/user/getUsers.js",
+		"/home/bhlap-03/Desktop/rApp/config/default.json",
+		"/home/bhlap-03/Desktop/rApp/modules/user/index.js",
+		"/home/bhlap-03/Desktop/rApp/lib/Route.js",
+		"/home/bhlap-03/Desktop/rApp/modules/user/models/UserModel.js",
+		"/home/bhlap-03/Desktop/register/config/staging.json",
+		"/home/bhlap-03/Desktop/rApp/config/staging.json",
+		"/home/bhlap-03/Desktop/register/lib/utility.js",
+		"/home/bhlap-03/Desktop/rApp/modules/events/publisher.js",
+		"/home/bhlap-03/Desktop/register/node_modules/express/lib/express.js",
+		"/home/bhlap-03/Desktop/register/routes/verification/verifyEmail.js",
+		"/home/bhlap-03/Desktop/register/routes/verification/createPhoneVerification.js",
+		"/home/bhlap-03/Desktop/register/lib/apiKeyCheck.js",
+		"/home/bhlap-03/Desktop/rApp/modules/schedular/index.js",
+		"/home/bhlap-03/Desktop/rApp/docs/html/errors.html",
+		"/home/bhlap-03/Desktop/rApp/routes/verification/createEmailVerification.js",
+		"/home/bhlap-03/Desktop/rApp/modules/masterData/models/MasterDataModel.js",
+		"/home/bhlap-03/Desktop/register/modules/sendgrid/index.js",
+		"/home/bhlap-03/Desktop/register/modules/verification/models/VerificationModel.js",
+		"/home/bhlap-03/Desktop/register/modules/verification/index.js",
+		"/home/bhlap-03/Desktop/rApp/modules/verification/models/VerificationModel.js",
+		"/home/bhlap-03/Desktop/rApp/modules/verification/index.js",
+		"/home/bhlap-03/Desktop/register/modules/schedular/index.js",
+		"/home/bhlap-03/Desktop/register/modules/adminUser/index.js",
+		"/home/bhlap-03/Desktop/register/modules/adminUser/adminUserModel.js",
+		"/home/bhlap-03/Desktop/rApp/modules/auth/index.js",
+		"/home/bhlap-03/Desktop/rApp/modules/managerUser/models/ManagerUserModel.js",
+		"/home/bhlap-03/Desktop/register/modules/ManagerUser/models/ManagerUserModel.js",
+		"/home/bhlap-03/Desktop/register/modules/ManagerUserModel/index.js",
+		"/home/bhlap-03/Desktop/rApp/modules/managerUser/index.js",
+		"/home/bhlap-03/Desktop/rApp/modules/adminUser/models/AdminUserModel.js",
+		"/home/bhlap-03/Desktop/register/lib/authCheck.js",
+		"/home/bhlap-03/Desktop/rApp/modules/auth/models/AuthModel.js",
+		"/home/bhlap-03/Desktop/register/modules/auth/models/authModels.js",
+		"/home/bhlap-03/Desktop/rApp/lib/authCheck.js",
+		"/home/bhlap-03/Desktop/register/lib/errorHandler.js",
+		"/home/bhlap-03/Desktop/register/loaderio/loaderio-11.txt",
+		"/home/bhlap-03/Desktop/rApp/loaderio/loaderio-62cea0e9422976338501b49c21af9d4f.txt",
+		"/home/bhlap-03/Desktop/register/docs/html/index.html",
+		"/home/bhlap-03/Desktop/rApp/docs/html/index.html",
+		"/home/bhlap-03/Desktop/register/modules/shedular/index.js",
+		"/home/bhlap-03/Desktop/rApp/lib/urlEncodedBodyParser.js",
+		"/home/bhlap-03/Desktop/register/lib/urlEncodedBodyParser.js",
+		"/home/bhlap-03/Desktop/register/lib/errors.js",
+		"/home/bhlap-03/Desktop/rApp/lib/jsonBodyParser.js",
+		"/home/bhlap-03/Desktop/rApp/lib/utility.js",
+		"/home/bhlap-03/Desktop/register/docker-compose.yml",
+		"/home/bhlap-03/Desktop/register/Dockerfile",
+		"/home/bhlap-03/Desktop/register/.gitignore",
+		"/home/bhlap-03/Desktop/register/.eslintrc.json",
+		"/home/bhlap-03/Desktop/register/gulpfile.js",
+		"/home/bhlap-03/Desktop/register/newrelic.js",
+		"/home/bhlap-03/Desktop/register/lib/globalConfigure.js",
+		"/home/bhlap-03/Desktop/rApp/package.json",
+		"/home/bhlap-03/Desktop/logIn/package.json",
+		"/home/bhlap-03/Desktop/logIn/public/controllers/controller.js",
+		"/home/bhlap-03/Desktop/logIn/routes.js",
+		"/home/bhlap-03/Desktop/logIn/server.js",
+		"/home/bhlap-03/Desktop/logIn/lib/Route.js",
+		"/home/bhlap-03/Desktop/logIn/config/passport.js",
+		"/home/bhlap-03/Desktop/logIn/models/index.js",
+		"/home/bhlap-03/Desktop/logIn/models/user.js",
+		"/home/bhlap-03/Desktop/rApp/modules/socket/index.js",
+		"/home/bhlap-03/Desktop/restservices/server.js",
+		"/home/bhlap-03/Desktop/restservices/config/default.json",
+		"/home/bhlap-03/Desktop/restservices/config/staging.json",
+		"/home/bhlap-03/Desktop/restservices/lib/utility.js",
+		"/home/bhlap-03/Desktop/restservices/lib/globalConfigure.js",
+		"/home/bhlap-03/Desktop/restservices/lib/Route.js",
+		"/home/bhlap-03/Desktop/restservices/routes/api.js",
+		"/home/bhlap-03/Desktop/restservices/lib/apiEvents.js",
+		"/home/bhlap-03/Desktop/restservices/server.js~",
+		"/home/bhlap-03/Desktop/start/passport-init.js",
+		"/home/bhlap-03/Desktop/start/app.js",
+		"/home/bhlap-03/Desktop/start/routes/api.js",
+		"/home/bhlap-03/Desktop/start/routes/authenticate.js",
+		"/home/bhlap-03/Desktop/start/models/models.js",
+		"/home/bhlap-03/Desktop/start/routes/index.js",
+		"/home/bhlap-03/Desktop/honey/node-push/Push.js",
+		"/home/bhlap-03/Desktop/app1/public/index.html",
+		"/home/bhlap-03/Desktop/app1/app/models/todo.js",
+		"/home/bhlap-03/Desktop/app1/app/routes.js"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getUserList",
+			"INVALID_AUTH",
+			"local",
+			"tv4",
+			"apiKeys"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/bhlap-03/Desktop/mnmp/server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/bhlap-03/Desktop/mnmp/routes/register/register.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "apn_cert_dev.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
